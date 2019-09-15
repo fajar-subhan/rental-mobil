@@ -1,0 +1,19 @@
+/* fonts */
+@font-face {
+  font-family: lora;
+  src: url('../fonts/opensans-light-webfont.woff') format('woff');
+}
+
+.login {
+  margin-top: 30px;
+}
+
+.login1 {
+  font-size: 36px;
+}
+
+.login1,.login2 {
+  font-family:lora;
+  text-transform: uppercase;
+  text-align: center;
+}

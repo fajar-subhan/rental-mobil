@@ -1,0 +1,159 @@
+a.btn-primary {
+  font-size: 13px;
+}
+
+table a.btn {
+  font-size: 14px;
+}
+/*ALL dashboard*/
+.card-body {
+  margin: 0px;
+  padding: 0px;
+  border-bottom-left-radius: 5px;
+}
+
+.card-body a {
+  display: block;
+  padding: 7px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.card-body .btn {
+  border-radius: 0px;
+}
+
+.header {
+  padding: 12px;
+  height: 59px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+
+}
+
+.border {
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+}
+
+.header span  {
+  clear: both;
+  max-height: 10px;
+  margin-bottom: 15px;
+}
+
+h2.dashboard {
+  font-size: 25px;
+}
+
+/* jumlah mobil */
+.header-jumlah-mobil {
+  background-color: rgba(73, 125, 213, 0.53);
+  color: rgba(32, 104, 226, 1);
+}
+
+.btn-jumlah-mobil:hover {
+  background-color: rgb(52, 112, 170);
+  color: white;
+}
+
+.card-body-jumlah-mobil a {
+    border: 1px solid rgba(73, 125, 213, 0.53);
+    color: rgba(32, 104, 226, 1);
+    background-color: rgba(0,0,0,.06);
+}
+
+/* jumlah Kustomer */
+.header-jumlah-kustomer {
+  background-color: rgba(65, 176, 150, 0.53);
+  color: rgba(4, 143, 111, 1);
+}
+
+.btn-jumlah-kustomer:hover {
+  background-color:rgb(13, 149, 120);
+  color: white;
+}
+
+.card-body-jumlah-kustomer a {
+  border: 1px solid rgba(65, 176, 150, 0.53);
+  color: rgba(4, 143, 111, 1);
+  background-color: rgba(0,0,0,.06);
+}
+
+/* Jumlah Transaksi */
+.header-jumlah-transaksi {
+  background-color: rgba(190, 213, 30, 0.53);
+  color: rgba(128, 142, 25, 1);
+}
+
+.btn-jumlah-transaksi {
+  border:1px solid rgba(190, 213, 30, 0.53);
+  color: rgba(128, 142, 25, 1);
+}
+
+.btn-jumlah-transaksi:hover {
+  background-color:  rgb(160, 177, 10);
+  color: white;
+}
+
+.card-body-jumlah-transaksi a {
+    background-color: rgba(0,0,0,.06);
+}
+
+/* Rental Selesai */
+.header-rental-selesai {
+  background-color: rgba(35, 255, 31, 0.53);
+  color: rgba(54, 159, 51, 1);
+}
+
+.btn-rental-selesai  {
+  border:1px solid rgba(35, 255, 31, 0.53);
+  color:rgba(54, 159, 51, 1);
+}
+
+.btn-rental-selesai:hover {
+  background-color: rgba(25, 157, 24, 1);
+  color: white;
+}
+
+.card-body-rental-selesai {
+    background-color: rgba(0,0,0,.06);
+}
+
+/* ======Data Mobil========*/
+.edit {
+    color: white;
+    background-color: rgb(19, 182, 153);
+}
+
+a.edit:hover {
+  color: black;
+}
+
+.hapus {
+  color: white;
+  background-color: rgb(177, 11, 11);
+}
+
+a.hapus:hover {
+  color: black;
+}
+
+/* data kostumer */
+.edit {
+    color: white;
+    background-color: rgb(19, 182, 153);
+}
+
+a.edit:hover {
+  color: black;
+}
+
+.hapus {
+  color: white;
+  background-color: rgb(177, 11, 11);
+}
+
+a.hapus:hover {
+  color: black;
+}
